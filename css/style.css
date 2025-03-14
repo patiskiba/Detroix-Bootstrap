@@ -1,8 +1,25 @@
-header .container-fluid:nth-child(1) {
-    padding-left: 5%;
+.header1{
+    padding-left: 10%;
+    padding-right: 10%;
     background-color: #0B0B31;
     color: #9E9EA1;
 }
-header .container:nth-child(1) ul li a {
+
+.header2 {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+header .row ul li a {
     color: #9E9EA1;
+}
+
+.headerButtons {
+    
+}
+
+.headerButtons button {
+    background-color: #0B0B31;
+    padding-left: 1em;
+    padding-right: 1em;
 }
