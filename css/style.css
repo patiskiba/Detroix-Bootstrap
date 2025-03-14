@@ -1,0 +1,8 @@
+header .container-fluid:nth-child(1) {
+    padding-left: 5%;
+    background-color: #0B0B31;
+    color: #9E9EA1;
+}
+header .container:nth-child(1) ul li a {
+    color: #9E9EA1;
+}
