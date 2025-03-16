@@ -14,12 +14,22 @@ header .row ul li a {
     color: #9E9EA1;
 }
 
-.headerButtons {
-    
-}
+
 
 .headerButtons button {
     background-color: #0B0B31;
     padding-left: 1em;
     padding-right: 1em;
+}
+
+.heroSection {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.circle {
+    height: 2rem;
+    width: 2rem;
+    border-radius: 50%;
+    background-color: #9E9EA1;
 }
