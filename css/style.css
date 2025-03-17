@@ -33,3 +33,14 @@ header .row ul li a {
     border-radius: 50%;
     background-color: #9E9EA1;
 }
+
+.cardSection {
+    padding-left: 10%;
+    padding-right: 10%;
+    
+}
+
+.card {
+    border: 1px #0B0B31 solid;
+    margin: 4px;
+}
