@@ -42,5 +42,17 @@ header .row ul li a {
 
 .card {
     border: 1px #0B0B31 solid;
-    margin: 4px;
+    
+}
+
+.servicesSection {
+    padding-left: 10%;
+    padding-right: 10%;
+    background-color: #0B0B31;
+    color: aliceblue;
+} 
+
+.newsDate {
+    background-color: #da7b28;
+    border-radius: .5rem;
 }
